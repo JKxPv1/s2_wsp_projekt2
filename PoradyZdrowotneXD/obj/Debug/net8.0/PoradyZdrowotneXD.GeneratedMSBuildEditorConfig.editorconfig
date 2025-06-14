@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PoradyZdrowotneXD
+build_property.RootNamespace = PoradyZdrowotneXD
+build_property.ProjectDir = /Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0hlYWRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Aktywnosc.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWt0eXdub3NjLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Cukier.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VraWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Nawodnienie.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmF3b2RuaWVuaWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Owoce.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3dvY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Sen.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VuLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Stres.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RyZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Tluszcze.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGx1c3pjemUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/Pages/Warzywa.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2Fyenl3YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/RedirectToOwoce.razor]
+build_metadata.AdditionalFiles.TargetPath = UmVkaXJlY3RUb093b2NlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

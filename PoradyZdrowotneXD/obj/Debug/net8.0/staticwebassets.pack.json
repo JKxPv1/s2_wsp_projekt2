@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/obj/Debug/net8.0/compressed/9gbsmvapou.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/Aktywnosc/aktywnosc.png",
+      "PackagePath": "staticwebassets/images/Aktywnosc/aktywnosc.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/Cukier/cukier.png",
+      "PackagePath": "staticwebassets/images/Cukier/cukier.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/Nawodnienie/nawodnienie.png",
+      "PackagePath": "staticwebassets/images/Nawodnienie/nawodnienie.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/Stres/stres.png",
+      "PackagePath": "staticwebassets/images/Stres/stres.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/Tluszcze/tluszcze.png",
+      "PackagePath": "staticwebassets/images/Tluszcze/tluszcze.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/owoce/owoce.png",
+      "PackagePath": "staticwebassets/images/owoce/owoce.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/sen/sen.png",
+      "PackagePath": "staticwebassets/images/sen/sen.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/images/warzywa/warzywa.png",
+      "PackagePath": "staticwebassets/images/warzywa/warzywa.png"
+    },
+    {
+      "Id": "/Users/jkb/Desktop/Uczelnia/Materiały z zajęć/Semestr_2/Wybrane_środowiska_programowania/Projekt 2/PoradyZdrowotneXD/PoradyZdrowotneXD/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PoradyZdrowotneXD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PoradyZdrowotneXD.props",
+      "PackagePath": "build\\PoradyZdrowotneXD.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PoradyZdrowotneXD.props",
+      "PackagePath": "buildMultiTargeting\\PoradyZdrowotneXD.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PoradyZdrowotneXD.props",
+      "PackagePath": "buildTransitive\\PoradyZdrowotneXD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

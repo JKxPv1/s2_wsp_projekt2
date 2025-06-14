@@ -1,0 +1,11 @@
+@page "/"
+
+@inject NavigationManager Nav
+
+@code {
+    protected override void OnInitialized()
+    {
+        // true ⇒ pełne odświeżenie (SEO i analytics też „widzą” /owoce)
+        Nav.NavigateTo("/owoce", true);
+    }
+}
